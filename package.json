@@ -1,0 +1,16 @@
+{
+  "name": "badger-gocd",
+  "version": "0.1.0",
+  "description": "Serve badges for Go CD job statuses",
+  "main": "index.js",
+  "keywords": [
+    "gocd"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/L3-DT-Hackathon/badger-gocd.git"
+  },
+  "dependencies": {
+    "express": "~4.4.2"
+  }
+}

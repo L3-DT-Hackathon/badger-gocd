@@ -1,7 +1,7 @@
 {
   "name": "badger-gocd",
   "version": "0.1.0",
-  "description": "Serve badges for Go CD job statuses",
+  "description": "Serve badges for GoCD pipeline statuses",
   "main": "index.js",
   "keywords": [
     "gocd"
